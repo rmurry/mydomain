@@ -158,15 +158,15 @@ function App() {
             </div>
 
             <div className="social-links">
-              <a href="mailto:you@example.com">
+              <a href="mailto:rylanmurry@gmail.com">
                 <Mail size={19} />
                 Email
               </a>
-              <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
+              <a href="https://www.linkedin.com/in/rylanmurry1995" target="_blank" rel="noreferrer">
                 <Linkedin size={19} />
                 LinkedIn
               </a>
-              <a href="https://github.com/" target="_blank" rel="noreferrer">
+              <a href="https://github.com/rmurry" target="_blank" rel="noreferrer">
                 <Github size={19} />
                 GitHub
               </a>
