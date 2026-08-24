@@ -152,10 +152,6 @@ function App() {
             <div>
               <p className="section-kicker">Contact</p>
               <h2>Want to connect?</h2>
-              <p>
-                The links below are placeholders—replace them with the profiles
-                and contact method you want to make public.
-              </p>
             </div>
 
             <div className="social-links">
