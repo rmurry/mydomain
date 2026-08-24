@@ -1,3 +1,4 @@
+import React from "react";
 import { ArrowUpRight, Github, Linkedin, Mail, Server, Database, BrainCircuit } from "lucide-react";
 
 const projects = [
